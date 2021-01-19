@@ -2,7 +2,7 @@
   "name": "quiz-app",
   "version": "0.0.1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "htmlhint"
   },
   "keywords": [],
   "author": "Jeremias Erbs <jerry@badabam.de> (https://badabam.de)",
@@ -16,5 +16,8 @@
     "url": "https://github.com/badabam/quiz-app/issues"
   },
   "homepage": "https://github.com/badabam/quiz-app#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "htmlhint": "^0.14.2"
+  }
 }
