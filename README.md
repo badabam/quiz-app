@@ -1,7 +1,8 @@
 # Quiz App
 
 ## Template usage
-*Don't forget to update the author (and more) in the package.json*
+
+_Don't forget to update the author (and more) in the package.json_
 
 ## Installation
 
